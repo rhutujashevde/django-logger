@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>rhutuja blog</title>
+        </title>
+    </head>
+    <body>
+        {% for post in posts %}
+        {{post.author}} - {{post.created_date}}</br>
+        <b>TITLE - {{post.title}} </b></br>
+        {{post.text}}</br>
+        Pblished on - {{post.published_date}}</br></br></br>
+        {% endfor %}
+    </body>
+</html>

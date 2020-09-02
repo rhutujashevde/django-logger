@@ -1,0 +1,178 @@
+2020-08-25 10:02:46,722 [INFO]- Some log
+2020-08-25 10:02:46,823 [INFO]- Some log
+2020-08-25 10:05:39,632 [INFO]- Some log
+2020-08-25 10:05:39,732 [INFO]- Some log
+2020-08-25 10:05:50,887 [INFO]- Some log
+2020-08-25 10:05:50,989 [INFO]- Some log
+2020-08-25 10:06:21,141 [INFO]- Some log
+2020-08-25 10:06:21,243 [INFO]- Some log
+2020-08-25 10:07:06,408 [ERROR]- [u"'uii' value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ] format."]
+2020-08-25 10:07:06,585 [ERROR]- [u"'uii' value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ] format."]
+2020-08-25 10:15:01,958 [ERROR]- [u"'uii' value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ] format."]
+2020-08-25 10:15:02,056 [ERROR]- [u"'uii' value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ] format."]
+2020-08-25 10:15:34,158 [ERROR]- [u"'uii' value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ] format."]
+2020-08-25 10:15:34,256 [ERROR]- [u"'uii' value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ] format."]
+2020-08-25 10:22:29,258 [ERROR]- [u"'uii' value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ] format."]
+2020-08-25 10:22:29,350 [ERROR]- [u"'uii' value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[.uuuuuu]][TZ] format."]
+2020-08-25 10:22:50,535 [INFO]- Some log
+2020-08-25 10:22:50,636 [INFO]- Some log
+2020-08-25 10:26:18,089 [INFO]- Some 111 log
+2020-08-25 10:26:18,192 [INFO]- Some 111 log
+2020-08-25 10:26:37,764 [DEBUG]- (0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+2020-08-25 10:27:02,160 [INFO]- Some 111 log
+2020-08-25 10:27:02,167 [DEBUG]- (0.001) SELECT "blog_post"."id", "blog_post"."author_id", "blog_post"."title", "blog_post"."text", "blog_post"."created_date", "blog_post"."published_date" FROM "blog_post" WHERE "blog_post"."published_date" <= '2020-08-25 10:27:02.158825' ORDER BY "blog_post"."published_date" ASC; args=(u'2020-08-25 10:27:02.158825',)
+2020-08-25 10:27:02,169 [DEBUG]- (0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1; args=(1,)
+2020-08-25 10:27:02,177 [DEBUG]- (0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1; args=(1,)
+2020-08-25 10:27:02,263 [INFO]- Some 111 log
+2020-08-25 10:27:02,267 [DEBUG]- (0.001) SELECT "blog_post"."id", "blog_post"."author_id", "blog_post"."title", "blog_post"."text", "blog_post"."created_date", "blog_post"."published_date" FROM "blog_post" WHERE "blog_post"."published_date" <= '2020-08-25 10:27:02.263330' ORDER BY "blog_post"."published_date" ASC; args=(u'2020-08-25 10:27:02.263330',)
+2020-08-25 10:27:02,270 [DEBUG]- (0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1; args=(1,)
+2020-08-25 10:27:02,273 [DEBUG]- (0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1; args=(1,)
+2020-08-25 10:27:41,679 [DEBUG]- (0.000) SELECT "django_migrations"."app", "django_migrations"."name" FROM "django_migrations"; args=()
+2020-08-25 10:27:45,573 [INFO]- Some 111 log
+2020-08-25 10:27:45,671 [INFO]- Some 111 log
+2020-08-25 10:28:15,868 [INFO]- Some 111 log
+2020-08-25 10:28:15,948 [INFO]- Some 111 log
+2020-08-25 10:29:16,829 [INFO]- Some 111 log
+2020-08-25 10:29:17,239 [INFO]- Some 111 log
+2020-08-25 10:38:58,901 [INFO]- Some 111 log
+2020-08-25 10:38:59,052 [INFO]- Some 111 log
+2020-08-25 11:19:37,810 [INFO]- Some 111 log
+2020-08-25 11:19:37,928 [INFO]- Some 111 log
+2020-08-25 12:03:17,135 [INFO]- Some 111 log
+2020-08-25 12:03:17,223 [INFO]- Some 111 log
+2020-08-25 12:26:06,135 [INFO]- Some 111 log
+2020-08-25 12:26:06,136 [ERROR]- log() takes at least 3 arguments (2 given)
+2020-08-25 12:26:06,211 [INFO]- Some 111 log
+2020-08-25 12:26:06,211 [ERROR]- log() takes at least 3 arguments (2 given)
+2020-08-25 12:26:22,123 [INFO]- Some 111 log
+2020-08-25 12:26:22,211 [INFO]- Some 111 log
+2020-08-25 12:33:41,595 [INFO]- Some 111 log
+2020-08-25 12:33:41,601 [ERROR]- No module named middlewares
+2020-08-25 12:33:42,042 [INFO]- Some 111 log
+2020-08-25 12:33:42,044 [ERROR]- No module named middlewares
+2020-08-25 12:34:22,784 [INFO]- Some 111 log
+2020-08-25 12:34:22,794 [ERROR]- cannot import name ErrorStack
+2020-08-25 12:34:23,086 [INFO]- Some 111 log
+2020-08-25 12:34:23,089 [ERROR]- cannot import name ErrorStack
+2020-08-25 12:34:44,586 [INFO]- Some 111 log
+2020-08-25 12:34:44,597 [ERROR]- cannot import name MiddlewareMixin
+2020-08-25 12:34:44,879 [INFO]- Some 111 log
+2020-08-25 12:34:44,881 [ERROR]- cannot import name MiddlewareMixin
+2020-08-25 13:39:52,607 [INFO]- Some 111 log
+2020-08-25 13:39:52,629 [ERROR]- cannot import name MiddlewareMixin
+2020-08-25 13:39:53,468 [INFO]- Some 111 log
+2020-08-25 13:39:53,471 [ERROR]- cannot import name MiddlewareMixin
+2020-08-25 13:40:41,576 [INFO]- Some 111 log
+2020-08-25 13:40:41,582 [ERROR]- cannot import name MiddlewareMixin
+2020-08-25 13:40:41,985 [INFO]- Some 111 log
+2020-08-25 13:40:41,989 [ERROR]- cannot import name MiddlewareMixin
+2020-08-25 13:41:55,022 [INFO]- Some 111 log
+2020-08-25 13:41:55,034 [ERROR]- cannot import name MiddlewareMixin
+2020-08-25 13:41:55,461 [INFO]- Some 111 log
+2020-08-25 13:41:55,463 [ERROR]- cannot import name MiddlewareMixin
+2020-08-25 13:42:44,945 [INFO]- Some 111 log
+2020-08-25 13:42:44,959 [ERROR]- Module "blog.middlewares" does not define a "ErrorStackMiddleware" attribute/class
+2020-08-25 13:42:45,349 [INFO]- Some 111 log
+2020-08-25 13:42:45,351 [ERROR]- Module "blog.middlewares" does not define a "ErrorStackMiddleware" attribute/class
+2020-08-25 13:43:16,265 [INFO]- Some 111 log
+2020-08-25 13:43:16,393 [INFO]- Some 111 log
+2020-08-25 14:41:15,565 [ERROR]- unindent does not match any outer indentation level (middlewares.py, line 28)
+2020-08-25 14:41:15,835 [ERROR]- unindent does not match any outer indentation level (middlewares.py, line 28)
+2020-08-25 14:41:23,889 [ERROR]- 'return' outside function (middlewares.py, line 28)
+2020-08-25 14:41:24,196 [ERROR]- 'return' outside function (middlewares.py, line 28)
+2020-08-25 14:41:40,229 [ERROR]- unexpected indent (middlewares.py, line 28)
+2020-08-25 14:41:40,497 [ERROR]- unexpected indent (middlewares.py, line 28)
+2020-08-25 14:42:08,393 [ERROR]- object() takes no parameters
+2020-08-25 14:42:08,636 [ERROR]- object() takes no parameters
+2020-08-26 05:28:18,170 [ERROR]- object() takes no parameters
+2020-08-26 05:28:18,651 [ERROR]- object() takes no parameters
+2020-08-26 06:10:55,170 [ERROR]- Module "blog.middleware" does not define a "ErrorStackMiddleware" attribute/class
+2020-08-26 06:10:55,470 [ERROR]- Module "blog.middleware" does not define a "ErrorStackMiddleware" attribute/class
+2020-08-26 06:11:08,923 [ERROR]- object() takes no parameters
+2020-08-26 06:11:09,166 [ERROR]- object() takes no parameters
+2020-08-26 06:29:21,165 [ERROR]- object() takes no parameters
+2020-08-26 06:29:21,407 [ERROR]- object() takes no parameters
+2020-08-26 06:33:33,758 [ERROR]- object() takes no parameters
+2020-08-26 06:33:34,012 [ERROR]- object() takes no parameters
+2020-08-26 06:34:32,934 [ERROR]- this constructor takes no arguments
+2020-08-26 06:34:33,214 [ERROR]- this constructor takes no arguments
+2020-08-26 06:34:43,857 [ERROR]- object() takes no parameters
+2020-08-26 06:34:44,112 [ERROR]- object() takes no parameters
+2020-08-26 06:35:09,455 [ERROR]- 'APIParserMiddleware' object is not iterable
+2020-08-26 06:35:09,699 [ERROR]- 'APIParserMiddleware' object is not iterable
+2020-08-26 06:38:52,655 [ERROR]- object() takes no parameters
+2020-08-26 06:38:53,006 [ERROR]- object() takes no parameters
+2020-08-26 06:40:56,196 [ERROR]- iteration over non-sequence
+2020-08-26 06:40:56,446 [ERROR]- iteration over non-sequence
+2020-08-26 06:42:15,559 [ERROR]- global name 'process_view' is not defined
+2020-08-26 06:42:15,824 [ERROR]- global name 'process_view' is not defined
+2020-08-26 06:42:47,363 [ERROR]- iteration over non-sequence
+2020-08-26 06:42:47,626 [ERROR]- iteration over non-sequence
+2020-08-26 06:42:54,756 [ERROR]- iteration over non-sequence
+2020-08-26 06:42:54,998 [ERROR]- iteration over non-sequence
+2020-08-26 06:43:00,513 [ERROR]- expected an indented block (middleware.py, line 21)
+2020-08-26 06:43:00,846 [ERROR]- expected an indented block (middleware.py, line 21)
+2020-08-26 06:43:08,158 [ERROR]- this constructor takes no arguments
+2020-08-26 06:43:08,423 [ERROR]- this constructor takes no arguments
+2020-08-26 06:43:19,595 [ERROR]- name 'something' is not defined
+2020-08-26 06:43:19,901 [ERROR]- name 'something' is not defined
+2020-08-26 06:43:27,801 [ERROR]- object() takes no parameters
+2020-08-26 06:43:28,157 [ERROR]- object() takes no parameters
+2020-08-26 06:43:33,095 [ERROR]- name 'objects' is not defined
+2020-08-26 06:43:33,456 [ERROR]- name 'objects' is not defined
+2020-08-26 06:43:38,025 [ERROR]- object() takes no parameters
+2020-08-26 06:43:38,368 [ERROR]- object() takes no parameters
+2020-08-26 06:45:23,569 [ERROR]- __init__() takes exactly 5 arguments (2 given)
+2020-08-26 06:45:23,809 [ERROR]- __init__() takes exactly 5 arguments (2 given)
+2020-08-26 06:45:40,263 [ERROR]- process_view() takes exactly 5 arguments (3 given)
+2020-08-26 06:45:40,546 [ERROR]- process_view() takes exactly 5 arguments (3 given)
+2020-08-26 06:45:46,725 [ERROR]- process_view() takes exactly 2 arguments (3 given)
+2020-08-26 06:45:46,979 [ERROR]- process_view() takes exactly 2 arguments (3 given)
+2020-08-26 06:46:05,677 [ERROR]- local variable 'user' referenced before assignment
+2020-08-26 06:46:06,171 [ERROR]- local variable 'user' referenced before assignment
+2020-08-26 06:46:06,802 [ERROR]- local variable 'user' referenced before assignment
+2020-08-26 06:46:07,039 [ERROR]- local variable 'user' referenced before assignment
+2020-08-26 06:46:21,976 [ERROR]- 'UserActivityMiddleware' object is not iterable
+2020-08-26 06:46:22,235 [ERROR]- 'UserActivityMiddleware' object is not iterable
+2020-08-26 06:47:42,305 [ERROR]- object() takes no parameters
+2020-08-26 06:47:42,545 [ERROR]- object() takes no parameters
+2020-08-26 06:48:47,931 [ERROR]- object() takes no parameters
+2020-08-26 06:48:48,210 [ERROR]- object() takes no parameters
+2020-08-26 06:56:34,203 [INFO]- Some 111 message
+2020-08-26 06:56:34,288 [INFO]- Some 111 message
+2020-08-26 06:56:47,084 [INFO]- Some 111 message
+2020-08-26 06:56:47,169 [INFO]- Some 111 message
+2020-08-26 06:57:05,576 [INFO]- Some 111 message
+2020-08-26 06:57:05,667 [INFO]- Some 111 message
+2020-08-26 06:59:17,636 [INFO]- Some 111 message
+2020-08-26 06:59:17,717 [INFO]- Some 111 message
+2020-08-26 06:59:44,355 [INFO]- Some 111 message
+2020-08-26 06:59:44,447 [INFO]- Some 111 message
+2020-08-26 07:00:18,356 [INFO]- Some 111 message
+2020-08-26 07:00:18,462 [INFO]- Some 111 message
+2020-08-26 07:01:45,726 [INFO]- Some 111 message
+2020-08-26 07:01:45,804 [INFO]- Some 111 message
+2020-08-26 07:02:49,071 [INFO]- Some 111 message
+2020-08-26 07:02:49,173 [INFO]- Some 111 message
+2020-08-26 07:03:00,324 [INFO]- Some 111 message
+2020-08-26 07:03:00,429 [INFO]- Some 111 message
+2020-08-26 07:03:10,662 [INFO]- Some 111 message
+2020-08-26 07:03:10,764 [INFO]- Some 111 message
+2020-08-26 07:14:01,923 [INFO]- Some 111 message
+2020-08-26 07:14:02,507 [INFO]- Some 111 message
+2020-08-26 07:15:31,820 [INFO]- Some 111 message
+2020-08-26 07:15:31,932 [INFO]- Some 111 message
+2020-08-26 07:16:36,335 [INFO]- Some 111 message
+2020-08-26 07:16:36,439 [INFO]- Some 111 message
+2020-08-26 11:26:06,692 [INFO]- Some 111 message
+2020-08-26 11:26:06,926 [INFO]- Some 111 message
+2020-08-26 11:26:38,842 [INFO]- Some 111 message
+2020-08-26 11:26:59,965 [INFO]- Some 111 message
+2020-08-26 11:29:40,020 [INFO]- Some 111 message
+2020-08-26 11:29:49,117 [INFO]- Some 111 message
+2020-08-26 11:30:04,922 [INFO]- Some 111 message
+2020-08-26 11:30:45,404 [INFO]- Some 111 message
+2020-08-26 12:00:37,529 [INFO]- Some 111 message
+2020-08-26 12:01:27,593 [ERROR]- lalal
+2020-08-26 12:04:03,579 [ERROR]- lalal
+2020-08-26 13:03:03,497 [ERROR]- lalal
